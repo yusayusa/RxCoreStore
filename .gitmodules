@@ -1,6 +1,6 @@
 [submodule "Carthage/Checkouts/CoreStore"]
 	path = Carthage/Checkouts/CoreStore
-	url = https://github.com/JohnEstropia/CoreStore.git
+	url = https://c3bb255166f4621511559191f43b657c366dc66e@github.com/JohnEstropia/CoreStore.git
 [submodule "Carthage/Checkouts/RxSwift"]
 	path = Carthage/Checkouts/RxSwift
-	url = https://github.com/ReactiveX/RxSwift.git
+	url = https://c3bb255166f4621511559191f43b657c366dc66e@github.com/ReactiveX/RxSwift.git
